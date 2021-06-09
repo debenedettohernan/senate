@@ -1,0 +1,25 @@
+div header div p {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+#separ {
+    margin-top: 50px;
+}
+
+#imagen {
+    margin-top: 120px;
+}
+
+#footer {
+    padding-left: 40%;
+    color: grey;
+}
+
+#readMore {
+    margin-bottom: 115px;
+}
+
+#ttable {
+    text-align: center;
+}
